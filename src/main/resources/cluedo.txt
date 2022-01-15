@@ -1,0 +1,24 @@
+#ROOMS
+Hall
+Library
+Dining
+Lounge
+Study
+Billiard
+Conservatory
+Ball
+Kitchen
+#WEAPONS
+Candlestick
+Revolver
+Knife
+Lead Pipe
+Rope
+Spanner
+#SUSPECTS
+Mrs. White;62;American;Housekeeper
+Mr. Green;35;French;Reverend
+Mrs. Peacock;32;Canadian;Socialite
+Professor Plum;36;American;Professor
+Miss Scarlet;25;Italian;Actress
+Colonel Mustard;61;Irish;Colonel

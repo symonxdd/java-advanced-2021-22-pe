@@ -1,0 +1,28 @@
+#1
+6 8 2 - One Number is correct and well placed
+6 1 4 - One Number is correct but wrongly placed
+2 0 6 - Two Numbers are correct but wrongly placed
+7 3 8 - Nothing is correct
+8 7 0 - One Number is correct but wrongly placed
+ANSWER: 0 4 2
+#2
+3 4 2 - One Number is correct and well placed
+2 7 3 - Nothing is correct
+1 6 5 - One Number is correct but wrongly placed
+8 5 3 - One Number is correct and well placed
+2 6 4 - Two Numbers are correct but wrongly placed
+ANSWER: 8 4 6
+#3
+2 9 1 - One Number is Correct and in the Right Place
+2 4 5 -	One Number is Correct but in the Wrong Place
+4 6 3 -	Two Numbers are Correct but in the Wrong Place
+5 7 8 -	Nothing is Correct
+5 6 9 -	One Number Is Correct But in the Wrong Place
+ANSWER: 3 9 4
+#4
+4 6 0 - One number is correct and in the right place
+4 9 2 - One number is correct but in the wrong place
+0 8 4 - Two numbers are correct but in the wrong place
+5 1 6 - Nothing is correct
+5 6 8 - One number is correct but in the wrong place
+ANSWER: 8 2 0

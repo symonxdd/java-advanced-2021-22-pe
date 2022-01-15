@@ -1,0 +1,9 @@
+#ROOMS
+Hall
+Kitchen
+#WEAPONS
+Candlestick
+Revolver
+#SUSPECTS
+Mrs. White;62;American;Housekeeper
+Mr. Green;35;French;Reverend
